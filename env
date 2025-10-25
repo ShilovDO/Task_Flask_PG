@@ -1,0 +1,4 @@
+DB_HOST=pg_db_container
+DB_USER=postgres
+DB_PASSWORD=postgres
+DB_NAME=users_db
